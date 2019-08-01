@@ -1,0 +1,22 @@
+.less:after {
+    content: "\25B2";
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    margin-top: -10px;
+    color: #333;
+}
+.more:after {
+    content: "\25BC";
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    margin-top: -10px;
+    color: #333;
+}
+div.book {
+    border-left: #eb727e solid 5px;
+}
+div.DVD {
+    border-left: #a0f2d0 solid 5px;
+}
